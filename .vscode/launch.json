@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "update_bit",
+            "request": "launch",
+            "mainClass": "update_bit",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "claer_bit",
+            "request": "launch",
+            "mainClass": "claer_bit",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "set_bit",
+            "request": "launch",
+            "mainClass": "set_bit",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "Get_bit",
+            "request": "launch",
+            "mainClass": "Get_bit",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "Get_bit",
+            "request": "launch",
+            "mainClass": "bit_manupulation.Get_bit",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "subarray",
+            "request": "launch",
+            "mainClass": "subarray",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "question",
+            "request": "launch",
+            "mainClass": "question",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "Strings_builder02",
+            "request": "launch",
+            "mainClass": "Strings_builder02",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "Strings_builder",
+            "request": "launch",
+            "mainClass": "Strings_builder",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "arrays2Dquestion",
+            "request": "launch",
+            "mainClass": "arrays2Dquestion",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "arrays2D",
+            "request": "launch",
+            "mainClass": "arrays2D",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "Matrix_arrays",
+            "request": "launch",
+            "mainClass": "Matrix_arrays",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "questions_array",
+            "request": "launch",
+            "mainClass": "questions_array",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Non_Premitive_Data_Type.Arrays",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "index",
+            "projectName": "java Bootcamp_55d5816f"
+        },
+        {
+            "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "java Bootcamp_55d5816f"
+        }
+    ]
+}
